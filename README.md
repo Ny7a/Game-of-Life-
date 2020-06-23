@@ -1,5 +1,5 @@
 # Game-of-Life-
-This is a recreation of the game 'Game of life' by John Horton Conway. Game of Life uses cellular automation to plot points across a grid.  One interacts with the Game of Life by creating an initial configuration and observing how it evolves.   
+This is a recreation of the game 'Game of life' by John Horton Conway. Game of Life uses cellular automation to plot points across a grid.  You interact with the Game of Life by creating an initial configuration and observing how it evolves.   
 
 
 <b> Rules of the game:<b>
